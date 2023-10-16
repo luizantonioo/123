@@ -6,7 +6,7 @@ h3
 canvas {
   /* border:2px double rgb(0, 0, 0); */
 animation-name:baki;
-animation-duration: 4s;
+animation-duration: 5s;
 animation-iteration-count: infinite;
 }
 @keyframes baki {
